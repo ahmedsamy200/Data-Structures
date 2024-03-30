@@ -1,0 +1,7 @@
+F:\Data Structure\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csprojResolveAssemblyReference.cache
+F:\Data Structure\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csproj.CoreCompileInputs.cache
+F:\Data Structure\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe.config
+F:\Data Structure\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe
+F:\Data Structure\String Manipulation\String Manipulation\bin\Debug\String Manipulation.pdb
+F:\Data Structure\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+F:\Data Structure\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb

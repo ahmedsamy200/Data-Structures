@@ -1,0 +1,7 @@
+F:\Data Structure\Tree\Tree\bin\Debug\Tree.exe.config
+F:\Data Structure\Tree\Tree\bin\Debug\Tree.exe
+F:\Data Structure\Tree\Tree\bin\Debug\Tree.pdb
+F:\Data Structure\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+F:\Data Structure\Tree\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+F:\Data Structure\Tree\Tree\obj\Debug\Tree.exe
+F:\Data Structure\Tree\Tree\obj\Debug\Tree.pdb
